@@ -1,3 +1,3 @@
 # Random Quote
 
-Link : https://randquote.vercel.com
+Link : https://randquote.vercel.app
